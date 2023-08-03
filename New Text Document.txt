@@ -1,1 +1,13 @@
-asvasdfasv
+asvasdfasvasvas使用这个 Repo 对象对版本库进行操作，如：
+
+# 版本库是否为空版本库
+repo.bare
+
+# 当前工作区是否干净
+repo.is_dirty()
+
+# 版本库中未跟踪的文件列表
+repo.untracked_files
+
+# 克隆版本库
+repo.clone('clone_path')
