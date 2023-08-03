@@ -11,3 +11,4 @@ repo.untracked_files
 
 # 克隆版本库
 repo.clone('clone_path')
+asvas
